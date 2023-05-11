@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-04-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-29T19:36:44.505Z"
+    },
+    {
+      "description": "Produtos naturais",
+      "price": 36,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-20T16:18:30.654Z",
+      "id": 3
+    },
+    {
+      "description": "Produtos naturais",
+      "price": 36,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-20T16:18:38.019Z",
+      "id": 4
+    },
+    {
+      "description": "Produtos naturais",
+      "price": 40,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-20T16:20:19.073Z",
+      "id": 5
+    },
+    {
+      "description": "Coolers",
+      "price": 105,
+      "category": "tecnologia ",
+      "type": "outcome",
+      "createdAt": "2023-04-20T17:13:10.678Z",
+      "id": 6
+    },
+    {
+      "description": "salário",
+      "price": 1000,
+      "category": "dinheiro",
+      "type": "income",
+      "createdAt": "2023-04-24T14:01:14.807Z",
+      "id": 7
+    },
+    {
+      "description": "Produtos naturais",
+      "price": 32,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-24T14:32:29.611Z",
+      "id": 8
+    }
+  ]
+}
